@@ -1,0 +1,9 @@
+{
+	"name": "doantutai/betheme",
+	"type": "wordpress-theme",
+	"require": {
+		"composer/installers”: “20.8.9"
+		}
+}
+	
+	
